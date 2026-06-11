@@ -1,0 +1,3 @@
+wg-easy.mywebsite.com {
+  reverse_proxy wg-easy:51821
+}
